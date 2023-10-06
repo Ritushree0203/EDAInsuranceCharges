@@ -1,5 +1,5 @@
 # EDAInsuranceCharges
-Performed Univariate and Bivariate analysis on the dataset
+Performed Univariate and Bivariate analysis on the dataset <br>
 Explored various statistical aspects of the data
 Performed T-test, Heteroskedasticity tests and One-way Annova tests
 Explored relationships among the features
